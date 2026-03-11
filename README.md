@@ -91,4 +91,14 @@ Compiler/bin/Debug/net8.0-windows
 - **Область ввода текста** – предназначена для ввода и редактирования текста.
 - **Область вывода** – используется для отображения результатов работы программы.
 
+<img width="510" height="438" alt="image" src="https://github.com/user-attachments/assets/74b93c39-5a50-41a0-a2ab-b6031a55c7be" />
+<img width="511" height="432" alt="image" src="https://github.com/user-attachments/assets/fcb20c3a-ef84-40a8-bc7e-cc1745b37679" /> 
+<img width="511" height="446" alt="image" src="https://github.com/user-attachments/assets/944bf6e2-0547-4497-bd64-1abf1ed0dbd4" /> 
+<img width="780" height="494" alt="image" src="https://github.com/user-attachments/assets/6091dcf7-5943-4768-81f2-18dd0ccacd8a" />
+<img width="738" height="565" alt="image" src="https://github.com/user-attachments/assets/ad0d2a16-fe7c-4315-a9cc-d9c6a7e24406" />
+<img width="380" height="226" alt="image" src="https://github.com/user-attachments/assets/810acac0-21cf-4dc9-8131-d2734035632d" />
+
+
+
+
 
